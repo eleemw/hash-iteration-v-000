@@ -1,3 +1,4 @@
+## cruise_ship.rb
 # passengers = {
 # suite_a: "Amanda Presley",
 # suite_b: "Seymour Hoffman",
